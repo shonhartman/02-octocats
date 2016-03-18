@@ -1,0 +1,67 @@
+.saritocat {
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+.saritocat img {
+  height: 300px;
+  width: 300px;
+  border: 1px solid grey;
+}
+
+.topguncat {
+  height: 300px;
+  width: 300px;
+  float: right;
+}
+.topguncat img {
+  height: 300px;
+  width: 300px;
+  border: 1px solid grey;
+}
+.carlostocat {
+  height: 300px;
+  width: 300px;
+  float: left;
+  margin: 0 10px 0 22px;
+}
+.carlostocat img {
+  height: 300px;
+  width: 300px;
+  border: 1px solid grey;
+}
+.saritocredit span {
+  float: left;
+}
+.saritomargin {
+  margin-left: 140px;
+}
+.saritocredit img {
+  width: 25px;
+  height: 25px;
+  margin-top: 2px;
+  float: left;
+}
+.carlostocredit img {
+  width: 25px;
+  height: 25px;
+  margin-top: 2px;
+  float: left;
+}
+.carlostocredit span {
+  float: left;
+  margin-left: 25px;
+}
+.carlosmargin {
+  margin-left: 140px;
+}
+.topguncredit img {
+  width: 25px;
+  height: 25px;
+  margin-top: 2px;
+  float: left;
+}
+.topguncredit span {
+  float: left;
+  margin-left: 75px;
+}

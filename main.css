@@ -9,13 +9,11 @@ li {
 
 .octodex {
   margin: 20px 0 0 10px;
-  width: 446px;
   /*background-color: red;*/
 }
 
 .octocat {
   margin: 10px 12px;
-  width: 446px;
   float: left;
   /*background-color: blue;*/
 

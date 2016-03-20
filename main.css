@@ -1,3 +1,4 @@
+
 a {
   text-decoration: none;
   color: grey;
@@ -20,7 +21,7 @@ li {
 }
 
 .octocat img {
-  margin: 10px;
+  margin: 0px;
   width: 424px;
   height: 424px;
   border: 1px solid grey;
@@ -35,11 +36,17 @@ li {
 
 .image-caption {
   float: right;
+  padding: 6px 0;
   /*background-color: orange;*/
+}
+
+ul.authors {
+  float: right;
 }
 
 .authors img {
   height: 30px;
   width: 30px;
+  margin: 0;
   /*background-color: purple;*/
 }
